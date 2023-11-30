@@ -1,0 +1,10 @@
+{
+  "name": "hello-world-docsify",
+  "dependencies": {
+    "docsify-cli": "^4.4.4",
+    "serve": "^14.2.1"
+  },
+  "scripts": {
+    "start": "serve docs"
+  }
+}
